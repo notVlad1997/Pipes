@@ -1,0 +1,3 @@
+﻿  Pipes_server.cpp
+C:\Users\Vlad\Desktop\Cod\C++\Pipes_server\Pipes_server\Pipes_server.cpp(29,8): warning C4101: 'dwNoBytesRead': unreferenced local variable
+  Pipes_server.vcxproj -> C:\Users\Vlad\Desktop\Cod\C++\Pipes_server\Debug\Pipes_server.exe
